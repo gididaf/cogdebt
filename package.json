@@ -1,6 +1,6 @@
 {
   "name": "cogdebt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cognitive Debt Tracker — quantify and close the gap between vibe-coding and understanding",
   "type": "module",
   "bin": {

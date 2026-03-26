@@ -7,7 +7,7 @@ const program = new Command();
 program
   .name('cogdebt')
   .description('Cognitive Debt Tracker — quantify and close your understanding gap')
-  .version('1.0.0');
+  .version('1.0.1');
 
 program
   .command('init')
